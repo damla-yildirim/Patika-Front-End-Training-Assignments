@@ -1,0 +1,10 @@
+.navbar-light .navbar-brand{color: #e26c78;}
+.navbar-light .navbar-brand:hover{color: #c22d3b;}
+.navbar-light .navbar-nav .nav-link{color:#ffffff}
+.navbar-light .navbar-nav .nav-link:hover{color:#ffffffd7}
+.navbar-light .navbar-nav .active>.nav-link{color: #e8d5d5;}
+.container-fluid{padding: 0;}
+ul{list-style: none;}
+p{text-align: justify;}
+.card-text{color: #950891; font-weight: bold;text-align: center;}
+.btn-primary{margin-left: 40px;}
