@@ -1,0 +1,21 @@
+body{
+    background-color:black;
+    color: chocolate;
+    font-size: 20px;
+}
+div{
+    text-align: center;
+}
+#anadiv{
+    font-size: 25px;
+}
+
+#name{
+    font-weight: bold;
+    font-style: italic;
+}
+#time{
+    font-weight: bold;
+    font-size: 23px;
+}
+
