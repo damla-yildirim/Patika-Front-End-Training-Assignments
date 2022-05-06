@@ -1,0 +1,108 @@
+/* body */
+
+body{
+    margin: 0 auto;
+    text-align: center;
+    width: 1000px;
+    background-color: ghostwhite;
+ }
+ /* yataymenü */
+ 
+ .ymenu{
+     list-style: none;
+     margin: 0; padding: 0;
+     overflow: hidden;
+     font-weight: bold;
+ }
+ .ymenu li{
+     /*float: left;*/
+     margin: 1%;
+     display: inline-block;
+ }
+ .ymenu a{
+     text-decoration: none;
+     border: 1px solid lightblue;
+     border-top: 2px solid rgb(25, 176, 226);
+     background: rgb(200, 227, 236);
+     color: black;
+ 
+     width: 8em;
+     height: 2.5em;
+     display: block;
+     line-height: 35px;
+ }
+ .ymenu a:hover{
+     border: 1px solid rgb(131, 176, 190);
+     border-top: 2px solid rgb(7, 45, 58);
+     background: rgb(101, 141, 155);
+     color: white;
+ }
+ 
+ /* footer menü */
+ .fmenu{
+     list-style: none;
+     text-align: right;
+     font-weight: bold;
+ }
+ .fmenu li{
+     padding: 3px;
+ }
+ .fmenu a{
+     color: black;
+     text-decoration: none;
+ }
+ 
+ /* sayfa basi */
+ #saybas{
+     color: black;
+     text-decoration: none;
+     font-size: 2em;
+     font-weight: bold;
+     font-style: italic;
+ }
+ 
+ /* HEADER ETİKETLERİ TÜMÜ */
+ /* header başlık */
+ h1{
+     color: rgb(30, 103, 238);
+ }
+ 
+ /* header */
+ header{
+     width: auto;
+     height: 50px;
+ }
+ 
+ /* FOOTER ETİKET TÜMÜ */
+ footer{
+     width: auto;
+     height: 102px;
+     margin-left: auto;
+     margin-right: auto;
+ }
+ .foot{
+     float: left;
+     display: inline-block;
+     height: 102px;
+     width: 480px;
+ }
+ 
+ /* SECTİON ETİKET TÜMÜ */
+ section{
+     list-style-position: inside;
+ }
+ p{
+     text-align:justify;
+     padding: 10px;
+ }
+ li{
+     font-weight: bold;
+ }
+ img{
+     width: 250px;
+ }
+ h3{
+     float: left;
+ }
+ 
+ 
